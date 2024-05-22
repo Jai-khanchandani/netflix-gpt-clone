@@ -4,6 +4,12 @@
 - Header
 - Login Form
 - Sign Up Form
+- Form Validation
+- useRef Hook
+- Firebase Setup
+- create SignUp user account
+- Implement Sign In user API
+- created Redux store with userSlice
 
 # Features
 
